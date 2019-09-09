@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Racing2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Google.cpp
+C:\Users\gamec\source\repos\Racing2D\Racing2D\Google.cpp(24,26): warning C4309:  '=': truncation of constant value
+C:\Users\gamec\source\repos\Racing2D\Racing2D\Google.cpp(59,27): warning C4309:  '=': truncation of constant value
+  Racing2D.vcxproj -> C:\Users\gamec\source\repos\Racing2D\Debug\Google.exe
